@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /img/
 Sitemap: https://www.chandannn.com/sitemap.xml
